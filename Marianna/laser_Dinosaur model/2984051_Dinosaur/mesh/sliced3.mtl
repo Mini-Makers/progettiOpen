@@ -1,0 +1,15 @@
+# 123DMakeServer material file.
+# File Created : Sat Oct 25 21:31:19 2014
+
+newmtl Plastic_edge
+illum 1
+Ka 1 0.27 0
+Kd 1 0.27 0
+Ks 0 0 0
+Tf 1 1 1
+newmtl Plastic_face
+illum 1
+Ka 1 0.27 0
+Kd 1 0.27 0
+Ks 0 0 0
+Tf 0.2 0.2 0.2
